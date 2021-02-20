@@ -1,2 +1,2 @@
 # miniature-chainsaw
-Hospital Management System Project under the course of Database Management System
+This is a Project of Hospital Management System under the course of Database Management System 🏥
